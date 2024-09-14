@@ -3,3 +3,5 @@ learning from playlist in youtube : [30 Days, 30 JavaScript Projects For Beginne
 
 
 ### 1Day Weather App : [Weather App](https://maryam-elmorshidy.github.io/30DaysHTML-CSS-JS/1Day_Weather%20App/)
+
+### 1Day ToDo App : [ToDo App](https://maryam-elmorshidy.github.io/30DaysHTML-CSS-JS/2Day_ToDo%20App/)
